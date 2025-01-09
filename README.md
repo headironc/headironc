@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 - **Languages:** Rust, JavaScript, HTML, CSS, SQL
 - **Frameworks:** React, Node.js, Next.js, Axum
 - **Tools:** Git, Docker, VS Code
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** PostgreSQL, MongoDB
 
 ## 📈 GitHub Stats
 
