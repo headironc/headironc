@@ -24,12 +24,10 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 
 ## 🌟 Top Repositories
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=headironc&repo=repo-name&theme=radical)](https://github.com/headironc/repo-name)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=headironc&repo=open-wechat&theme=radical)](https://github.com/headironc/open-wechat)
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-- [Personal Website](https://your-website.com)
+- [Twitter](https://twitter.com/headiron)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
