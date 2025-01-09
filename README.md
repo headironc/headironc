@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 
 ![headironc's Stats](https://github-readme-stats.vercel.app/api?username=headironc&show_icons=true&hide_border=false&count_private=true)
 
-![headironc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=headironcshow_icons=true&hide_border=false&layout=compact)
+![headironc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=headironc&show_icons=true&hide_border=false&layout=compact)
 
 ## 🔗 Connect with Me
 
