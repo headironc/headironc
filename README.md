@@ -1,21 +1,20 @@
-# Hi there, I'm headironc! 👋
+# Hi there, I'mhArcher Leung! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in web development, data science, and open-source contributions. Here's a little about me:
+Welcome to my GitHub profile! I'm a passionate developer with interests in web development and open-source contributions. Here's a little about me:
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on some exciting web development projects
-- 🌱 I’m currently learning advanced JavaScript and machine learning techniques
-- 👯 I’m looking to collaborate on open-source projects related to web development and data science
-- 💬 Ask me about anything related to Python, JavaScript, and data analysis
+- 🌱 I’m currently learning advanced JavaScript and Rust
+- 👯 I’m looking to collaborate on open-source projects related to web development
 - 📫 How to reach me: [Email](mailto:your-email@example.com)
 - ⚡ Fun fact: I love hiking and exploring new places
 
 ## 🛠️ Languages and Tools
 
-- **Languages:** Python, JavaScript, HTML, CSS, SQL
-- **Frameworks:** React, Node.js, Flask, Django
-- **Tools:** Git, Docker, VS Code, Jupyter Notebook
+- **Languages:** Rust, JavaScript, HTML, CSS, SQL
+- **Frameworks:** React, Node.js, Next.js, Axum
+- **Tools:** Git, Docker, VS Code
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## 📈 GitHub Stats
