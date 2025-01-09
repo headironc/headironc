@@ -1,4 +1,4 @@
-# Hi there, I'mhArcher Leung! 👋
+# Hi there, I'm Archer Leung! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in web development and open-source contributions. Here's a little about me:
 
