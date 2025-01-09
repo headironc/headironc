@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 - 🔭 I’m currently working on some exciting web development projects
 - 🌱 I’m currently learning advanced JavaScript and Rust
 - 👯 I’m looking to collaborate on open-source projects related to web development
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:dempsterleung@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new places
 
 ## 🛠️ Languages and Tools
