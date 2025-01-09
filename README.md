@@ -27,6 +27,6 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 
 ## 🔗 Connect with Me
 
-- [Twitter](https://twitter.com/head1ron)
+- [Twitter](https://twitter.com/ArcherLeung)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
