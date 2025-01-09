@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 ## 📈 GitHub Stats
 
 ![headironc's Stats](https://github-readme-stats.vercel.app/api?username=headironc&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![headironc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=headironc&theme=vue-dark&hide_border=false)
 
 ## 🌟 Top Repositories
 
